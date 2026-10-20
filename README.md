@@ -28,6 +28,10 @@ Community projects built around Lody.
 
 `development/`
 
+#### Prompt Shortcuts
+
+- [Set up tailnet-preview](development/prompts/tailnet-preview/README.md) — Configure private per-PR preview environments on your own machine with the upstream setup prompt. Language: English (`en`).
+
 #### Recipes
 
 - [Lody Duo workflow](development/recipes/lody-duo/README.md) — Eight role presets and an external Skill for coordinated development and independent review. Language: English (`en`).

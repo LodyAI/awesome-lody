@@ -28,6 +28,10 @@
 
 `development/`
 
+#### Prompt Shortcuts
+
+- [Set up tailnet-preview](development/prompts/tailnet-preview/README.md) — 使用上游安装提示词，在自己的机器上配置私有 PR 预览环境。语言：英语（`en`）。
+
 #### Recipes
 
 - [Lody Duo workflow](development/recipes/lody-duo/README.md) — Eight role presets and an external Skill for coordinated development and independent review. Language: English (`en`).

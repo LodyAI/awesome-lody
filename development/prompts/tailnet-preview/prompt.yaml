@@ -1,0 +1,6 @@
+schemaVersion: 1
+kind: prompt
+name: Set up tailnet-preview
+description: Set up private per-PR preview environments using the upstream tailnet-preview agent guide.
+promptFile: prompt.md
+slug: tailnet-preview

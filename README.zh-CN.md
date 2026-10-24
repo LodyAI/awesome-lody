@@ -46,7 +46,9 @@
 
 `project-maintenance/`
 
-暂无投稿。欢迎 Roles、Schedules、Prompts、Skills、教程、视频或组合实践。
+#### Skills
+
+- [Lody update](project-maintenance/skills/lody-update/README.md) — 检查 Lody daemon 的版本与归属、桌面端更新缓存，升级独立 daemon，或把桌面端内置服务切换为独立 daemon。语言：中文（`zh-CN`）。
 
 ### 学习与研究
 

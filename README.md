@@ -46,7 +46,9 @@ No submissions yet. Roles, schedules, prompts, Skills, guides, videos, and recip
 
 `project-maintenance/`
 
-No submissions yet. Roles, schedules, prompts, Skills, guides, videos, and recipes are welcome.
+#### Skills
+
+- [Lody update](project-maintenance/skills/lody-update/README.md) — Inspect Lody daemon version and ownership, verify desktop update caches, upgrade a standalone daemon, or switch the built-in service to a standalone daemon. Language: Chinese (`zh-CN`).
 
 ### Learning and research
 

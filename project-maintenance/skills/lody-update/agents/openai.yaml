@@ -1,0 +1,3 @@
+interface:
+  display_name: "Lody 更新"
+  short_description: "识别 Lody 运行归属、升级独立服务，并将桌面端内置服务切换为独立 daemon"

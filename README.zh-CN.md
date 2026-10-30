@@ -20,6 +20,7 @@
 | --- | --- | --- |
 | [lody-ios](https://github.com/Innei/lody-ios) | 客户端 | 独立的 Lody iOS 客户端，在 iPhone 上提供原生聊天、会话管理和编程 Agent 协作。 |
 | [kurage](https://github.com/natsustan/kurage) | 客户端 | Lody 的 iOS 原生客户端。 |
+| [lody-mygo](https://github.com/lbr77/lody-mygo) | 客户端 | Lody Native：非官方的 Lody 原生 macOS 客户端，使用 MyGo 在 GPU 上直接绘制，不使用 WebView。 |
 | [acp-extension-core](https://github.com/LodyAI/acp-extension-core) | 协议 | 为 Lody 提供的 ACP 协议扩展。 |
 
 ## 按场景浏览

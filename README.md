@@ -37,6 +37,10 @@ Community projects built around Lody.
 
 - [Lody Duo workflow](development/recipes/lody-duo/README.md) — Eight role presets and an external Skill for coordinated development and independent review. Language: English (`en`).
 
+#### Guides
+
+- [Automatic Notion memory for DeepSeek Harness](development/guides/dsh-notion-memory.md) — Make new DSH sessions recall and save Notion memories with one `$DSH_HOME/AGENTS.md` policy file, plus how to verify it from the tool trace. Language: English (`en`).
+
 ### Code review
 
 `code-review/`

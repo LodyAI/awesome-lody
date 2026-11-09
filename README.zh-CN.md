@@ -37,6 +37,10 @@
 
 - [Lody Duo workflow](development/recipes/lody-duo/README.md) — Eight role presets and an external Skill for coordinated development and independent review. Language: English (`en`).
 
+#### Guides
+
+- [Automatic Notion memory for DeepSeek Harness](development/guides/dsh-notion-memory.md) — 用一份 `$DSH_HOME/AGENTS.md` 策略文件让新的 DSH 会话自动读取和写入 Notion 记忆，并说明如何从工具调用记录验收。语言：英语（`en`）。
+
 ### 代码审查
 
 `code-review/`

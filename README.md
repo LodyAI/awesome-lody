@@ -55,6 +55,10 @@ No submissions yet. Roles, schedules, prompts, Skills, guides, videos, and recip
 
 - [Lody update](project-maintenance/skills/lody-update/README.md) — Inspect Lody daemon version and ownership, verify desktop update caches, upgrade a standalone daemon, or switch the built-in service to a standalone daemon. Language: Chinese (`zh-CN`).
 
+#### Guides
+
+- [Verify a Lody Pi profile](project-maintenance/guides/pi-profile-check.md) — Check that every declared Pi package is installed, count the skills each one contributes, reconcile that against what Pi actually loads, and diff against a baseline. Language: English (`en`).
+
 ### Learning and research
 
 `learning-research/`

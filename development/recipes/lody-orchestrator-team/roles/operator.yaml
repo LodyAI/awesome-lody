@@ -1,0 +1,10 @@
+schemaVersion: 1
+kind: role
+name: 运维执行者
+description: 按需运维：只在发布、回滚、服务器变更或事故时启用。无备份、无回滚方案不动手。不参与日常写代码。
+promptFile: ../prompts/operator.md
+recommended:
+  agent: pi
+  runConfig:
+    configOptionValues:
+      thinking: max

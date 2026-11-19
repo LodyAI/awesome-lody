@@ -1,0 +1,10 @@
+schemaVersion: 1
+kind: role
+name: 放行者
+description: 唯一放行者：在干净提交上原样跑冻结验收命令，输出 PASS/FAIL/INCONCLUSIVE 加命令、输出、环境。不改代码。
+promptFile: ../prompts/verifier.md
+recommended:
+  agent: pi
+  runConfig:
+    configOptionValues:
+      thinking: max

@@ -1,0 +1,10 @@
+schemaVersion: 1
+kind: role
+name: 编排者
+description: 开发流水线的调度者：意图卡→六段任务书→派发→收结果→门禁→汇报。不写代码、不判 PASS。
+promptFile: ../prompts/orchestrator.md
+recommended:
+  agent: pi
+  runConfig:
+    configOptionValues:
+      thinking: max

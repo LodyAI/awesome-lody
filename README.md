@@ -36,6 +36,7 @@ Community projects built around Lody.
 #### Recipes
 
 - [Lody Duo workflow](development/recipes/lody-duo/README.md) — Eight role presets and an external Skill for coordinated development and independent review. Language: English (`en`).
+- [Lody Orchestrator Team](development/recipes/lody-orchestrator-team/README.md) — Six roles form a development pipeline: investigation, implementation, review, acceptance, and operations, with writing and release approval separated. Language: Chinese (`zh-CN`).
 
 #### Guides
 

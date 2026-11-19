@@ -36,6 +36,7 @@
 #### Recipes
 
 - [Lody Duo workflow](development/recipes/lody-duo/README.md) — Eight role presets and an external Skill for coordinated development and independent review. Language: English (`en`).
+- [Lody 编排者团队](development/recipes/lody-orchestrator-team/README.md) — 六个角色组成一条开发流水线：调查、实现、审查、验收、运维，写代码与放行分离。语言：中文（`zh-CN`）。
 
 #### Guides
 

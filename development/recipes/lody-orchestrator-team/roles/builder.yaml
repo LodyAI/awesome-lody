@@ -1,0 +1,10 @@
+schemaVersion: 1
+kind: role
+name: 建造者
+description: 唯一写者：按六段任务书和路径白名单做最小实现，提交分支，给出 diff、SHA、自测证据。不合并、不发布。
+promptFile: ../prompts/builder.md
+recommended:
+  agent: pi
+  runConfig:
+    configOptionValues:
+      thinking: max

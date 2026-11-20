@@ -90,7 +90,7 @@ No submissions yet. Roles, schedules, prompts, Skills, guides, videos, and recip
 
 #### Skills
 
-- [Lody CLI](general/skills/lody-cli.md) — Official Skill for driving Lody from a terminal with the `lody` CLI: hand work to Lody agents, manage sessions, schedules, Roles, and MCP servers, and run the runtime. Language: English (`en`).
+- [Lody CLI](general/skills/lody-cli.md) — Official Skill for driving Lody from a terminal with the `lody` CLI: hand work to Lody agents, manage sessions, schedules, automations, Roles, and MCP servers, and run the runtime. Language: English (`en`).
 
 ## Contribute
 

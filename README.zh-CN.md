@@ -88,7 +88,9 @@
 
 `general/`
 
-暂无投稿。欢迎 Roles、Schedules、Prompts、Skills、教程、视频或组合实践。
+#### Skills
+
+- [Lody CLI](general/skills/lody-cli.md) — 官方 Skill，让 Agent 在终端中通过 `lody` CLI 操作 Lody：把任务交给 Lody Agent，管理会话、定时任务、Roles 与 MCP 服务器，并运行 runtime。语言：英语（`en`）。
 
 ## 开始贡献
 

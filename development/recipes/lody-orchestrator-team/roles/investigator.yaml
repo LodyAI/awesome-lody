@@ -1,0 +1,10 @@
+schemaVersion: 1
+kind: role
+name: 调查员
+description: 只读取证：产出带文件行号和来源的证据包，未知项标 UNKNOWN。不写文件、不提方案、不派活。
+promptFile: ../prompts/investigator.md
+recommended:
+  agent: pi
+  runConfig:
+    configOptionValues:
+      thinking: max
